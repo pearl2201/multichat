@@ -11,7 +11,7 @@ import java.util.Iterator;
 
 public class server {
 
-	private static final int MAX_CLIENTS = 3;
+	private static final int MAX_CLIENTS = 50;
 	private static Socket s;
 
 	private static ServerSocket server;
